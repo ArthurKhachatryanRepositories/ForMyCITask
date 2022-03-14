@@ -18,6 +18,6 @@ class ClassForTestingTest {
 
     @Test
     void hhh() {
-       // assertTrue(false);
+        assertTrue(false);
     }
 }
