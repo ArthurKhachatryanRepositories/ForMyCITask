@@ -20,6 +20,7 @@ class ClassForTestingTest {
     void hhh() {
 
 
+
         assertTrue(false);
     }
 }
